@@ -3,7 +3,7 @@
 	* ReplDB - Uncomment this section and comment Sequelize section to use.
 	* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Remove / char to comment, add it to uncomment ➡️ */
-
+/*
 const Database = require("@replit/database");
 const ReplDB = new Database();
 
@@ -126,7 +126,7 @@ const thread = {
 	* ~~~~~~~~~~~~~~~~~~~~~~ Start of Sequelize Section ~~~~~~~~~~~~~~~~~~~~~~~~
 	* Sequelize - Uncomment this section and comment ReplDB section to use.
 	* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Remove / char to comment, add it to uncomment ➡️ *
+Remove / char to comment, add it to uncomment ➡️ */
 
 const Sequelize = require("sequelize");
 const sequelize = new Sequelize({
